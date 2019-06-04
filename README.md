@@ -20,6 +20,10 @@ SwiftUI. Creating and Combining Views
 - static preview (fully renders SwiftUI views)
 - live view (to fully render UIKit views) 
 
+## Readings 
+
+- [SwiftUI Essentials: Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+
 
 ```swift 
 struct ContentView : View {
