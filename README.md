@@ -1,5 +1,6 @@
-# SwiftUI-Creating-Views
-SwiftUI. Creating and Combining Views
+# SwiftUI - Landmarks
+
+Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
 
 SwiftUI was introduced at WWDC 2019 by Apple. It is their declarative platform for create user interfaces for apps across their platforms. It can be seen as similar to React-Navtive or Flutter without being cross-platform at the moment, hopefully with Swift being open-sourced it can be in the future. With SwiftUI there isn't an existing Storyboard or View Controller present. SwiftUI views are constructed and can be composed of other SwiftUI views. Those views are rendered as code as written automatically via a **Live View** or **Static View** . So far SwiftUI is being heavily pushed by the Apple team and heading into the fall's release of iOS 13 to production SwiftUI will be fully ready for production as well. 
 
